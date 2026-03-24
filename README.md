@@ -1,28 +1,46 @@
-# Cloud Computing and DevOps Practical
+# ☁️ Cloud Computing with DevOps Practical
 
-## Student Information
+## 👨‍🎓 Student Information
 
-Name: Shiv Kapadia
-Enrollment Number:202504104610038
-Practical Set: A
+| Name | Enrollment Number | Practical Set |
+|------|------------------|--------------|
+| Shiv | 202504104610038 | Set A |
+| Bansi Kasaundra | 202504104610043 | Set B |
 
-## Subject
 
+---
+
+## 🏫 Logos
+
+### University: UTU
+![UTU Logo](images/utu_logo.png)
+
+### Department: SRIMCA
+![SRIMCA Logo](images/srimca_logo.png)
+
+---
+
+## 📚 Subject
 Cloud Computing with DevOps
 
-## Practical Overview
+---
 
-This repository contains practical programs related to Git, GitHub and Python.
+## 📖 Practical Overview
 
-## Practicals
+This repository contains practical exercises and assignments related to **Cloud Computing with DevOps**.
 
-Practical 3 – Pattern programs and odd numbers
-Practical 4 – GitHub collaboration
-Practical 5 – Documentation using README and requirements
+It includes:
+- Python programs  
+- GitHub operations  
+- Proper documentation  
 
-## Tools Used
+---
 
-Python
-Git
-GitHub
-VS Code
+## 📝 Notes
+
+- Each practical task is organized in separate files  
+- Requirements file contains all dependencies  
+- Images and screenshots are added for clarity  
+
+---
+
