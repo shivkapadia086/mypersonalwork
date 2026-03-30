@@ -4,8 +4,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
-| Shiv | 202504104610038 | Set A |
-| Bansi Kasaundra | 202504104610043 | Set B |
+| vidhen | 202504104610114 | Set A |
+| ayush | 202504104610111 | Set B |
 
 
 ---
