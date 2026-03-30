@@ -4,8 +4,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
-| vidhen | 202504104610114 | Set A |
-| ayush | 202504104610111 | Set B |
+| Diya | 202504104610037 | Set B |
+| mansy | 202504104610110 | Set A |
 
 
 ---
